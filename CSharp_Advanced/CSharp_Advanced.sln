@@ -10,13 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpVersionen", "CSharpVersionen", "{97EFB47D-F138-409A-AB76-E839B179D8F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp70Samples", "CSharp70Samples\CSharp70Samples.csproj", "{472F1568-1DD9-437B-B406-937E646D88C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp70Samples", "CSharp70Samples\CSharp70Samples.csproj", "{472F1568-1DD9-437B-B406-937E646D88C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp71Samples", "CSharp71Samples\CSharp71Samples.csproj", "{8F6B3DC5-9AE0-43CD-9FF6-BC23FDFA30EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp71Samples", "CSharp71Samples\CSharp71Samples.csproj", "{8F6B3DC5-9AE0-43CD-9FF6-BC23FDFA30EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp72", "CSharp72\CSharp72.csproj", "{2657C168-599D-404E-AB24-40024E7DB196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp72", "CSharp72\CSharp72.csproj", "{2657C168-599D-404E-AB24-40024E7DB196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp80", "CSharp80\CSharp80.csproj", "{8919F57D-37A7-4410-89F8-A6468E98807F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp80", "CSharp80\CSharp80.csproj", "{8919F57D-37A7-4410-89F8-A6468E98807F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

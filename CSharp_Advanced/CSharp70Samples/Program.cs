@@ -55,6 +55,8 @@ namespace CSharp70Samples
             //name.ZweiterVorname
             //name.Nachname
 
+            string vornamen, nachnamen;
+            (vornamen,_,nachnamen) = p.VollenNamenAusgabe(); ;
             #endregion
 
 
