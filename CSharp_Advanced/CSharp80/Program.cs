@@ -8,6 +8,8 @@ namespace CSharp80
     {
         static void Main(string[] args)
         {
+
+            #region Alternative Index Zugriffe
             IList<string> strList = new List<string>();
 
             //strList[] ->Index
@@ -16,11 +18,13 @@ namespace CSharp80
             string str = "Hello World";
 
            string oputput =  str[..];
-
+            #endregion
 
             string escapeFeatures = "HAllo Welter \n Ich schreibe \t in einer neuen Zeile";
 
             string filePath = @"C:\Windows\Temp\log.txt";
+
+
 
 
             Console.WriteLine("{0} {1}", str , oputput);
@@ -44,6 +48,8 @@ namespace CSharp80
             Console.WriteLine("--- Ausgabe: IAnimal catAnimal = new Cat(); ---");
             catAnimal.MakeNoise();
             catAnimal.Sleep();
+
+
             Console.WriteLine("Press Key");
             Console.ReadKey();
             Console.Clear();

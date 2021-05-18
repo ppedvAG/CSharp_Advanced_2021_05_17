@@ -56,7 +56,9 @@ namespace CSharp70Samples
             //name.Nachname
 
             string vornamen, nachnamen;
-            (vornamen,_,nachnamen) = p.VollenNamenAusgabe(); ;
+
+            //Mit leerzeichen, ab C# 9.0
+            (vornamen,_,nachnamen) = p.VollenNamenAusgabe(); 
             #endregion
 
 
