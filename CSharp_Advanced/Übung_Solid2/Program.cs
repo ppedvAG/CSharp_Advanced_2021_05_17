@@ -35,4 +35,37 @@ namespace Übung_Solid2
     }
     #endregion
 
+
+    #region GoodCode
+    public interface IEmail
+    {
+        void SendEmail();
+    }
+
+    public class Email : IEmail
+    {
+        public void SendEmail()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+
+    public class Notification
+    {
+        private IEmail _email;
+        public Notification()
+        {
+            _email = new Email();
+        }
+
+        public void PromotionalNotification()
+        {
+            _email.SendEmail();
+        }
+    }
+
+
+    #endregion
+
 }

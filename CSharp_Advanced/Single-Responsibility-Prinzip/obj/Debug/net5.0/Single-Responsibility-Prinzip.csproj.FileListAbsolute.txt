@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.exe
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\ref\Single-Responsibility-Prinzip.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\bin\Debug\net5.0\Single-Responsibility-Prinzip.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\ref\Single-Responsibility-Prinzip.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\Single-Responsibility-Prinzip\obj\Debug\net5.0\Single-Responsibility-Prinzip.genruntimeconfig.cache

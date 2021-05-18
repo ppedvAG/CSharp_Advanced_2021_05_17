@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp90\obj\Debug\
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp90\obj\Debug\net5.0\ref\CSharp90.dll
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp90\obj\Debug\net5.0\CSharp90.pdb
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp90\obj\Debug\net5.0\CSharp90.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp90\obj\Debug\net5.0\CSharp90.csprojAssemblyReference.cache

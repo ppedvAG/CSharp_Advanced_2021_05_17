@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\bin
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\bin\Debug\net5.0\CSharp70Samples.dll
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\bin\Debug\net5.0\ref\CSharp70Samples.dll
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\bin\Debug\net5.0\CSharp70Samples.pdb
-C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\obj\Debug\net5.0\CSharp70Samples.csprojAssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\obj\Debug\net5.0\CSharp70Samples.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\obj\Debug\net5.0\CSharp70Samples.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\CSharp70Samples\obj\Debug\net5.0\CSharp70Samples.AssemblyInfo.cs

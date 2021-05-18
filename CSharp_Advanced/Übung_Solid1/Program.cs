@@ -47,9 +47,62 @@ namespace Übung_Solid1
         }
     }
 
+    public interface IEntity
+    {
+        public int Id { get; set; }
+        public DateTime CreateAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    public interface IEmployee
+    {
+        int Id { get; set; }
+        string Name { get; set; }
+    }
+
+    public class Employee : IEmployee
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
 
 
-  
+    public interface ICanInsert<T> where T : class
+    {
+        public bool InsertIntoTable(T em);
+    }
+
+    public class EmployeeRepository
+    {
+        public bool InsertIntoTable(IEmployee em)
+        {
+            //Mach was
+
+            return true;
+        }
+    }
+
+    public abstract class Reports
+    {
+        public abstract void GenerateReport(IEmployee employee);
+    }
+
+
+    public class CrystalReports : Reports //IReports (Alternative) 
+    {
+        public override void GenerateReport(IEmployee employee)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class PDFReports : Reports //IReports (Alternative) 
+    {
+        public override void GenerateReport(IEmployee employee)
+        {
+            throw new NotImplementedException();
+        }
+    }
 
 
 }
