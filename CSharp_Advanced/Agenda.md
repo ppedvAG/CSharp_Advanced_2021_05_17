@@ -4,17 +4,17 @@ Email: KevinW@ppedv.de
 Themen
 
 Montag&Dienstag:
-- [ ] C# 7.0 -> 9.0 
-- [ ] Solid 
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] C# 7.0 -> 9.0 
+- [x] Solid 
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Mittwoch&Donnerstag
 
-- [ ] Threading (fertig) 
-- [ ] TPL (fertig)
-- [ ] async / await (fertig) 
-- [ ] Generics (fertig) + Lab
-- [ ] Events / EventHandler/ Actions / Func (fertig)
+- [ ] Threading
+- [ ] TPL
+- [ ] async / await
+- [ ] Generics + Lab
+- [ ] Events / EventHandler/ Actions / Func
 
 Freitag&Dienstag
 - [ ] Reflections 

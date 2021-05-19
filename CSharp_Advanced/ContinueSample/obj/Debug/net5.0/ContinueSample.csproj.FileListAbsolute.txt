@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ref\ContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\bin\Debug\net5.0\ContinueSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ref\ContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\ContinueSample\obj\Debug\net5.0\ContinueSample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.exe
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\ref\001_EasyTask.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\bin\Debug\net5.0\001_EasyTask.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\ref\001_EasyTask.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\001_EasyTask\obj\Debug\net5.0\001_EasyTask.genruntimeconfig.cache
