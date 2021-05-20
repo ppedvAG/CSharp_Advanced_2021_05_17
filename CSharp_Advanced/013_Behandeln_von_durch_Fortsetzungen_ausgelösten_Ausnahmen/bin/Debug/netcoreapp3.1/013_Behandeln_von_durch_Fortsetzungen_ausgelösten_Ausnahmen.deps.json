@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "013_Behandeln_von_durch_Fortsetzungen_ausgelösten_Ausnahmen/1.0.0": {
+        "runtime": {
+          "013_Behandeln_von_durch_Fortsetzungen_ausgelösten_Ausnahmen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "013_Behandeln_von_durch_Fortsetzungen_ausgelösten_Ausnahmen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

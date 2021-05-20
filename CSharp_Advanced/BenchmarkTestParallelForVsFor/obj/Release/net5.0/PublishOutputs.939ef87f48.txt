@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\bin\Release\net5.0\publish\BenchmarkTestParallelForVsFor.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\bin\Release\net5.0\publish\BenchmarkTestParallelForVsFor.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\bin\Release\net5.0\publish\BenchmarkTestParallelForVsFor.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\bin\Release\net5.0\publish\BenchmarkTestParallelForVsFor.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\bin\Release\net5.0\publish\BenchmarkTestParallelForVsFor.pdb

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.exe
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\ref\GenericBasics.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\bin\Debug\net5.0\GenericBasics.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\ref\GenericBasics.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\GenericBasics\obj\Debug\net5.0\GenericBasics.genruntimeconfig.cache

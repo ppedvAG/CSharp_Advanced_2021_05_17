@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_010_Fortsetzungen_und_untergeordnete_Tasks</RootNamespace>
+  </PropertyGroup>
+
+</Project>

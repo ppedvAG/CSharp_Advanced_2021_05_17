@@ -15,7 +15,9 @@ namespace AbbrechenEinerFortsetzung
             Console.WriteLine("Hello World!");
 
             using var cts = new CancellationTokenSource();
+
             CancellationToken token = cts.Token;
+
             var timer = new Timer(Elapsed, cts, 5000, Timeout.Infinite);
 
             var task = Task.Run(
@@ -75,6 +77,10 @@ namespace AbbrechenEinerFortsetzung
             try
             {
                 await task;
+
+                continuation.Wait();
+                double ret = continuation.Result;
+
                 double result = await continuation;
             }
             catch (Exception ex)
