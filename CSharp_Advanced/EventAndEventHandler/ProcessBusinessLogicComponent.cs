@@ -9,7 +9,7 @@ namespace EventAndEventHandler
     public delegate void InProcessing(int processBarValue);
     public delegate void Notify();
 
-    public class ProcessBusinessLogic
+    public class ProcessBusinessLogicComponent
     {
         public event Notify ProcessCompled;
         public event InProcessing ProcessInWorking;
@@ -20,8 +20,6 @@ namespace EventAndEventHandler
 
             for (int i = 0; i < 100; i++)
                 OnInProcessing(i);
-
-
 
             OnProcessCompleted();
         }

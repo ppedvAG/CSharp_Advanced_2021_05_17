@@ -10,7 +10,7 @@ namespace DelegatesActionsFuncSample
         static void Main(string[] args)
         {
             NumbChange nc1 = new NumbChange(Add12); //<-Übergeben Funktionszeiger
-            
+           
             int result = nc1(20); //Call Add12
 
             nc1 += Sub17;
@@ -34,6 +34,8 @@ namespace DelegatesActionsFuncSample
             a2 += AddNums; //Achtung AddNums wird 2x aufgerufen
             a2(22, 11, 44);
 
+
+            //Rückgabetyp wird an der letzten Stelle angegeben. 
             Func<int, int, int> func1 = Addition;
             int result2 = func1(33, 33);
 

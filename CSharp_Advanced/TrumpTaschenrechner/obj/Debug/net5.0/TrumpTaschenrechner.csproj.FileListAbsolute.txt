@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\bin\Debug\net5.0\TrumpTaschenrechner.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\bin\Debug\net5.0\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\bin\Debug\net5.0\ref\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\bin\Debug\net5.0\TrumpTaschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\ref\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.pdb

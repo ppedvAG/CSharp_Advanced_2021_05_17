@@ -8,22 +8,34 @@ Montag&Dienstag:
 - [x] Solid 
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
-Mittwoch&Donnerstag
 
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics + Lab
-- [ ] Events / EventHandler/ Actions / Func
+Mittwoch&Donnerstag
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [x] Generics + Lab
+- [x] Events / EventHandler/ Actions / Func
+
 
 Freitag&Dienstag
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
-- [ ] Serialisierung 
+- [x] Reflections 
+- [x] Plugin-Pattern 
+- [ ] Serialisierung
 - [ ] Linq / Lambda 
+
+(Dienstag)
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
+
+- [ ] WebAPI (.NET 5)
+  - [ ] Aufbau
+  - [ ] Grundlagen Controller-Klasse
+  - [ ] Formatte (JSON, XML, Eigne CSV)
+  - [ ] Swagger UI / OpenAPI 
+  - [ ] Client mit HttpClient (Console)
+  - [ ] EF Core (optional)
+- [ ] WebSocket?  
 
 
 

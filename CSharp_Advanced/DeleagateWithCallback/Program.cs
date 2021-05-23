@@ -9,27 +9,25 @@ namespace DeleagateWithCallback
 
         static void Main(string[] args)
         {
-            Del handler = new Del(DelegateMthod);
+            Del handler = new Del(ShowResult);
 
-            MethodWithCallback(12, 33, handler);
+            ProcessWithCallback(12, 33, handler);
 
         }
 
 
-        public static void MethodWithCallback(int param1, int param2, Del callback)
+        public static void ProcessWithCallback(int param1, int param2, Del callback) //<- callback (Funktionszeiger -> ShowResult)
         {
             //Ganz viel Logik wird berechnet....
 
 
-
-
-
+            //In der letzten Zeile der Methode (Wenn Logik abgearbeitet wurde) 
             callback("Methode ist erfolgreich durchgelaufen"); // -> Gehe danach auf -> public static void DelegateMthod(string message)
         }
 
 
         //Wird aufgerufen, wenn ich mit irgendwas fertig bin -> Erfolgs- oder Fehlermeldungmeldung.
-        public static void DelegateMthod(string message)
+        public static void ShowResult(string message)
         {
             Console.WriteLine(message);
         }

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.exe
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\ref\HelloReflection.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\bin\Debug\net5.0\HelloReflection.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\ref\HelloReflection.dll
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2021_05_17\CSharp_Advanced\HelloReflection\obj\Debug\net5.0\HelloReflection.genruntimeconfig.cache
