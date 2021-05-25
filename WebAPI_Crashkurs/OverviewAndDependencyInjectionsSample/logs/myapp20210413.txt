@@ -1,0 +1,70 @@
+2021-04-13 13:19:02.259 +02:00 [INF] Unsere Beispielanwedung starten :-) 
+2021-04-13 13:20:35.504 +02:00 [INF] Unsere Beispielanwedung starten :-) 
+2021-04-13 13:23:17.829 +02:00 [INF] Unsere Beispielanwedung starten :-) 
+2021-04-13 13:24:55.911 +02:00 [INF] Unsere Beispielanwedung starten :-) 
+2021-04-13 13:25:06.109 +02:00 [DBG] Hosting starting
+2021-04-13 13:25:06.558 +02:00 [INF] User profile is available. Using 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-13 13:25:06.619 +02:00 [DBG] Reading data from file 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys\key-905ea929-68d5-43ae-8e2e-1b44d5d5e964.xml'.
+2021-04-13 13:25:06.930 +02:00 [DBG] Reading data from file 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys\key-b526bbeb-a7de-42e7-9e80-a78c657162b4.xml'.
+2021-04-13 13:25:06.959 +02:00 [DBG] Found key {905ea929-68d5-43ae-8e2e-1b44d5d5e964}.
+2021-04-13 13:25:07.003 +02:00 [DBG] Found key {b526bbeb-a7de-42e7-9e80-a78c657162b4}.
+2021-04-13 13:25:07.063 +02:00 [DBG] Considering key {b526bbeb-a7de-42e7-9e80-a78c657162b4} with expiration date 2021-07-05 08:16:14Z as default key.
+2021-04-13 13:25:07.135 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-04-13 13:25:07.150 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2021-04-13 13:25:07.157 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-04-13 13:25:07.172 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2021-04-13 13:25:07.185 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2021-04-13 13:25:07.207 +02:00 [DBG] Using key {b526bbeb-a7de-42e7-9e80-a78c657162b4} as the default key.
+2021-04-13 13:25:07.214 +02:00 [DBG] Key ring with default key {b526bbeb-a7de-42e7-9e80-a78c657162b4} was loaded during application startup.
+2021-04-13 13:25:08.264 +02:00 [DBG] Loaded hosting startup assembly OverviewAndDependencyInjectionsSample
+2021-04-13 13:25:08.265 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-13 13:25:08.265 +02:00 [INF] Hosting environment: Development
+2021-04-13 13:25:08.266 +02:00 [INF] Content root path: C:\Aktueller Kurs\ASPNETCore20210413\AspNetCore20210413\OverviewAndDependencyInjectionsSample
+2021-04-13 13:25:08.266 +02:00 [DBG] Hosting started
+2021-04-13 13:25:08.660 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44302/ - -
+2021-04-13 13:25:08.670 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-04-13 13:25:08.687 +02:00 [DBG] The request path / does not match a supported file type
+2021-04-13 13:25:08.879 +02:00 [DBG] 1 candidate(s) found for the request path '/'
+2021-04-13 13:25:08.901 +02:00 [DBG] Endpoint 'OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2021-04-13 13:25:08.906 +02:00 [DBG] Request matched endpoint 'OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample)'
+2021-04-13 13:25:08.915 +02:00 [INF] Executing endpoint 'OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample)'
+2021-04-13 13:25:08.978 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2021-04-13 13:25:09.156 +02:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller OverviewAndDependencyInjectionsSample.Controllers.HomeController (OverviewAndDependencyInjectionsSample).
+2021-04-13 13:25:09.160 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2021-04-13 13:25:09.161 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2021-04-13 13:25:09.162 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2021-04-13 13:25:09.162 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2021-04-13 13:25:09.166 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2021-04-13 13:25:09.171 +02:00 [DBG] Executing controller factory for controller OverviewAndDependencyInjectionsSample.Controllers.HomeController (OverviewAndDependencyInjectionsSample)
+2021-04-13 13:25:09.175 +02:00 [DBG] Executed controller factory for controller OverviewAndDependencyInjectionsSample.Controllers.HomeController (OverviewAndDependencyInjectionsSample)
+2021-04-13 13:25:09.552 +02:00 [INF] Executing action method OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample) - Validation state: "Valid"
+2021-04-13 13:25:09.556 +02:00 [INF] HomeController->Index wurde eben aufgerufen
+2021-04-13 13:25:17.043 +02:00 [INF] Executed action method OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample), returned result Microsoft.AspNetCore.Mvc.ViewResult in 7465.5193ms.
+2021-04-13 13:25:17.071 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2021-04-13 13:25:17.071 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2021-04-13 13:25:17.072 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2021-04-13 13:25:17.072 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2021-04-13 13:25:17.072 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2021-04-13 13:25:17.072 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2021-04-13 13:25:17.072 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2021-04-13 13:25:17.153 +02:00 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2021-04-13 13:25:17.226 +02:00 [INF] Executing ViewResult, running view Index.
+2021-04-13 13:25:17.275 +02:00 [DBG] The view path '/Views/Home/Index.cshtml' was found in 87.1085ms.
+2021-04-13 13:25:17.763 +02:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2021-04-13 13:25:18.056 +02:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-04-13 13:25:18.138 +02:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-04-13 13:25:18.189 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2021-04-13 13:25:18.198 +02:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-04-13 13:25:18.199 +02:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-04-13 13:25:18.200 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2021-04-13 13:25:18.204 +02:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-04-13 13:25:18.210 +02:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-04-13 13:25:18.210 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2021-04-13 13:25:18.213 +02:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-04-13 13:25:18.213 +02:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-04-13 13:25:18.214 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2021-04-13 13:25:18.424 +02:00 [INF] Executed ViewResult - view Index executed in 1284.0752ms.
+2021-04-13 13:25:18.428 +02:00 [INF] Executed action OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample) in 9260.5068ms
+2021-04-13 13:25:18.431 +02:00 [INF] Executed endpoint 'OverviewAndDependencyInjectionsSample.Controllers.HomeController.Index (OverviewAndDependencyInjectionsSample)'
+2021-04-13 13:25:18.494 +02:00 [DBG] Connection ID "18374686481282236442" disconnecting.
+2021-04-13 13:25:18.513 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44302/ - - - 200 - text/html;+charset=utf-8 9865.6501ms

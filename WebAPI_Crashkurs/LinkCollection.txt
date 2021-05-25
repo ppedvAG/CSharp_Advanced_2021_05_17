@@ -1,0 +1,8 @@
+
+
+Startup.cs (MVC, RazorPages & WebAPI)
+https://docs.microsoft.com/de-de/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0
+
+
+Http Methoden
+https://wiki.selfhtml.org/wiki/HTTP/Anfragemethoden

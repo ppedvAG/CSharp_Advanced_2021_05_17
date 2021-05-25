@@ -1,0 +1,2 @@
+2021-04-14 09:35:05.057 +02:00 [INF] Unsere Beispielanwedung starten :-) 
+2021-04-14 09:35:17.553 +02:00 [INF] HomeController->Index wurde eben aufgerufen
