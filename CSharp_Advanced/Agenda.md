@@ -20,18 +20,18 @@ Mittwoch&Donnerstag
 Freitag&Dienstag
 - [x] Reflections 
 - [x] Plugin-Pattern 
-- [ ] Serialisierung
-- [ ] Linq / Lambda 
+- [x] Serialisierung
+- [x] Linq / Lambda 
 
 (Dienstag)
-- [ ] Erweiterungsmethoden  
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen 
+- [x] Erweiterungsmethoden  
+- [x] Operatoren
+- [x] Anonyme Typen + dynamische Typen 
 
 - [ ] WebAPI (.NET 5)
   - [ ] Aufbau
   - [ ] Grundlagen Controller-Klasse
-  - [ ] Formatte (JSON, XML, Eigne CSV)
+  - [ ] Formatter (JSON, XML, Eigne CSV)
   - [ ] Swagger UI / OpenAPI 
   - [ ] Client mit HttpClient (Console)
   - [ ] EF Core (optional)

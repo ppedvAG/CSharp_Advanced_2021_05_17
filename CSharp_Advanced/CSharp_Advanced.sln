@@ -116,7 +116,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrumpTaschenrechner", "Trum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloReflection", "HelloReflection\HelloReflection.csproj", "{7DCA0235-4A6E-4DE8-A5F4-8E14333D0334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{C950BE77-6B0D-47C7-82DD-CB292E93EECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{C950BE77-6B0D-47C7-82DD-CB292E93EECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAndLambdaSamples", "LinqAndLambdaSamples\LinqAndLambdaSamples.csproj", "{FEE2DCFA-4B6D-424E-9BBC-9B559839137F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTypes", "DynamicTypes\DynamicTypes.csproj", "{76613C07-AD1F-4F43-9F70-9069FE4D621D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorSample", "OperatorSample\OperatorSample.csproj", "{62257273-A986-47E8-A168-454C02FB36B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -308,6 +314,18 @@ Global
 		{C950BE77-6B0D-47C7-82DD-CB292E93EECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C950BE77-6B0D-47C7-82DD-CB292E93EECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C950BE77-6B0D-47C7-82DD-CB292E93EECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE2DCFA-4B6D-424E-9BBC-9B559839137F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE2DCFA-4B6D-424E-9BBC-9B559839137F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE2DCFA-4B6D-424E-9BBC-9B559839137F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE2DCFA-4B6D-424E-9BBC-9B559839137F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76613C07-AD1F-4F43-9F70-9069FE4D621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76613C07-AD1F-4F43-9F70-9069FE4D621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76613C07-AD1F-4F43-9F70-9069FE4D621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76613C07-AD1F-4F43-9F70-9069FE4D621D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62257273-A986-47E8-A168-454C02FB36B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62257273-A986-47E8-A168-454C02FB36B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62257273-A986-47E8-A168-454C02FB36B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62257273-A986-47E8-A168-454C02FB36B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
